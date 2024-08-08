@@ -1,0 +1,1654 @@
+{
+  "data": [
+    {
+      "messageid": "b6f2fcd4-e2ec-4807-ac2a-5d612ffb9372",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.802Z",
+      "frameNumber": 194,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6060000061988831
+        },
+        "bbox": {
+          "topleftx": 138,
+          "toplefty": 252,
+          "bottomrightx": 192,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e329a464-6c91-4166-a6d4-38d661bc0303",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.802Z",
+      "frameNumber": 194,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4560000002384186
+        },
+        "bbox": {
+          "topleftx": 922,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "0a910883-ede4-4f14-b903-37f0c175f0a6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.834Z",
+      "frameNumber": 195,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6169999837875366
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 252,
+          "bottomrightx": 193,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "16be78f7-3063-48a1-8c67-2ac309db4493",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.834Z",
+      "frameNumber": 195,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6169999837875366
+        },
+        "bbox": {
+          "topleftx": 1043,
+          "toplefty": 522,
+          "bottomrightx": 1121,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "f4c10a21-d1d2-4639-b925-d2fde8a169da",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.834Z",
+      "frameNumber": 195,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.414000004529953
+        },
+        "bbox": {
+          "topleftx": 922,
+          "toplefty": 165,
+          "bottomrightx": 1001,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "b8f11256-0237-4f46-aba2-325df9d5ff9e",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.861Z",
+      "frameNumber": 196,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6230000257492065
+        },
+        "bbox": {
+          "topleftx": 1043,
+          "toplefty": 522,
+          "bottomrightx": 1121,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "14355c0c-a800-48c7-817b-257072a589db",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.866Z",
+      "frameNumber": 196,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6209999918937683
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 252,
+          "bottomrightx": 193,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "1cec57d7-0399-4ad2-bacb-14852c5692bd",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.866Z",
+      "frameNumber": 196,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4490000009536743
+        },
+        "bbox": {
+          "topleftx": 922,
+          "toplefty": 165,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "54d54929-c3c6-4df5-96fd-cf2b74c4432d",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.886Z",
+      "frameNumber": 197,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6399999856948853
+        },
+        "bbox": {
+          "topleftx": 1043,
+          "toplefty": 523,
+          "bottomrightx": 1121,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "7ea5b015-70c3-403d-9a3c-ee25333b3a4b",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.887Z",
+      "frameNumber": 197,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6140000224113464
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 252,
+          "bottomrightx": 193,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "d30186fe-d2ec-4104-8eaa-c1e1a2f291f0",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.887Z",
+      "frameNumber": 197,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4560000002384186
+        },
+        "bbox": {
+          "topleftx": 922,
+          "toplefty": 165,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "8598bd9e-0b62-4335-92cd-b201b9eae467",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.903Z",
+      "frameNumber": 198,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6389999985694885
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1120,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "ea1799d8-8e51-4552-951c-30b7a115d520",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.903Z",
+      "frameNumber": 198,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6110000014305115
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 252,
+          "bottomrightx": 193,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "6457efc2-02cc-4041-a190-1b94b53abf12",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.903Z",
+      "frameNumber": 198,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4490000009536743
+        },
+        "bbox": {
+          "topleftx": 921,
+          "toplefty": 165,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "6ea79f24-356d-4631-ad03-65c55e23fefb",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.913Z",
+      "frameNumber": 199,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.628000020980835
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "2a978ab9-d68b-48d4-9d73-4f1b5adf3e82",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.913Z",
+      "frameNumber": 199,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.6079999804496765
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 251,
+          "bottomrightx": 193,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "29f02cda-4926-48e4-8add-9ce3ef50fb44",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.913Z",
+      "frameNumber": 199,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.42800000309944153
+        },
+        "bbox": {
+          "topleftx": 921,
+          "toplefty": 165,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "4f2b5fe1-f32e-417f-b342-f23ec75feca9",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.931Z",
+      "frameNumber": 200,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6209999918937683
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "9865bbf3-7daf-49c0-8c32-60dd052859a6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.931Z",
+      "frameNumber": 200,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5889999866485596
+        },
+        "bbox": {
+          "topleftx": 139,
+          "toplefty": 251,
+          "bottomrightx": 193,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "669f4bb7-6f26-497b-bc88-54e6cbe306b6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.931Z",
+      "frameNumber": 200,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.41100001335144043
+        },
+        "bbox": {
+          "topleftx": 921,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "3878aac8-bc28-442b-ac77-ae9b9853431e",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.953Z",
+      "frameNumber": 201,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6230000257492065
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "9560e744-8cc8-454e-a60a-7a3ab26c7ade",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.953Z",
+      "frameNumber": 201,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5879999995231628
+        },
+        "bbox": {
+          "topleftx": 137,
+          "toplefty": 251,
+          "bottomrightx": 191,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "a79479f4-341c-4d1d-8eed-78866fce9a74",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.992Z",
+      "frameNumber": 202,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6330000162124634
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "dfa01106-711f-447d-a335-1ef975087617",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.992Z",
+      "frameNumber": 202,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5690000057220459
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 251,
+          "bottomrightx": 191,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "b6857840-659a-4abd-a522-269a7218ebd6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:21.992Z",
+      "frameNumber": 202,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4410000145435333
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "17e5a3de-bda0-4f01-89a8-fd3c6aadbaba",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.017Z",
+      "frameNumber": 203,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6330000162124634
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "d29e80ec-4b1f-41b4-a7d7-6dcfe1844a72",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.020Z",
+      "frameNumber": 203,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5540000200271606
+        },
+        "bbox": {
+          "topleftx": 134,
+          "toplefty": 252,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "94c3c9f6-1f27-4ebb-8c9a-b91f0799018d",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.020Z",
+      "frameNumber": 203,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.42800000309944153
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "ae926c67-7876-42d5-be2f-a7f85b29aa94",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.034Z",
+      "frameNumber": 204,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6299999952316284
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1119,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e2f4a184-5a7e-4753-9986-f2ec483baba3",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.034Z",
+      "frameNumber": 204,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5600000023841858
+        },
+        "bbox": {
+          "topleftx": 134,
+          "toplefty": 252,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "01d7c1c5-bb0a-42f7-bb64-5152d3ab8600",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.044Z",
+      "frameNumber": 204,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.44999998807907104
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "0dbdbe5f-468c-41ab-bb2f-535532268155",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.062Z",
+      "frameNumber": 205,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6200000047683716
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1118,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "507cd972-f61b-47af-9fd9-e45cec3efc12",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.063Z",
+      "frameNumber": 205,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5720000267028809
+        },
+        "bbox": {
+          "topleftx": 134,
+          "toplefty": 252,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "8c802938-c4a2-44d2-bd40-0840802b6bde",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.063Z",
+      "frameNumber": 205,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4309999942779541
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "517e2b94-7587-47ef-9884-378921b490fe",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.082Z",
+      "frameNumber": 206,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6150000095367432
+        },
+        "bbox": {
+          "topleftx": 1042,
+          "toplefty": 522,
+          "bottomrightx": 1118,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "3ebcec5c-6e7c-422a-aa6f-07e9038387fa",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.082Z",
+      "frameNumber": 206,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5889999866485596
+        },
+        "bbox": {
+          "topleftx": 134,
+          "toplefty": 253,
+          "bottomrightx": 190,
+          "bottomrighty": 387
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "49915939-9a79-4ad9-bfc3-f0c2a6ab20a6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.082Z",
+      "frameNumber": 206,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4410000145435333
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 999,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "4e87c145-0bf2-4912-ac62-33c294edaa0c",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.098Z",
+      "frameNumber": 207,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6079999804496765
+        },
+        "bbox": {
+          "topleftx": 1041,
+          "toplefty": 521,
+          "bottomrightx": 1118,
+          "bottomrighty": 562
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "d171dcce-2550-4821-8ebc-3f3bfc1a2667",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.098Z",
+      "frameNumber": 207,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5820000171661377
+        },
+        "bbox": {
+          "topleftx": 135,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 387
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "b6ccfc8b-9f8e-476a-9849-f15d95c45357",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.098Z",
+      "frameNumber": 207,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.41100001335144043
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "7238e5d1-17fb-4c45-94f9-5af7c5a4b3d3",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.113Z",
+      "frameNumber": 208,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6259999871253967
+        },
+        "bbox": {
+          "topleftx": 1041,
+          "toplefty": 521,
+          "bottomrightx": 1118,
+          "bottomrighty": 562
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "0864dcc8-e285-4c2d-ad2d-0ce5223398c4",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.113Z",
+      "frameNumber": 208,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5830000042915344
+        },
+        "bbox": {
+          "topleftx": 135,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 387
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "9805982f-0b22-4a7c-a17c-ea65f3b40ada",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.113Z",
+      "frameNumber": 208,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4429999887943268
+        },
+        "bbox": {
+          "topleftx": 920,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 195
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "8cb96b69-7aac-4a6f-bb71-afba5d4d36c5",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.131Z",
+      "frameNumber": 209,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.625
+        },
+        "bbox": {
+          "topleftx": 1041,
+          "toplefty": 522,
+          "bottomrightx": 1118,
+          "bottomrighty": 563
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "f1d7cf5e-22b2-4a6a-9570-5fe1d070b0f6",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.132Z",
+      "frameNumber": 209,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5920000076293945
+        },
+        "bbox": {
+          "topleftx": 135,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 387
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "b5fd3dfa-4e2a-49a4-9bbc-34c13b6f16cd",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.132Z",
+      "frameNumber": 209,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4259999990463257
+        },
+        "bbox": {
+          "topleftx": 921,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "655dae64-e382-4111-b11f-d443373d7a7c",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.153Z",
+      "frameNumber": 210,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.625
+        },
+        "bbox": {
+          "topleftx": 1041,
+          "toplefty": 522,
+          "bottomrightx": 1117,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "97413b7c-4a1e-447b-8c63-5f184e1e5bf9",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.154Z",
+      "frameNumber": 210,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5870000123977661
+        },
+        "bbox": {
+          "topleftx": 135,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "cecdfbce-0746-4f4c-b090-f0743498190d",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.154Z",
+      "frameNumber": 210,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4429999887943268
+        },
+        "bbox": {
+          "topleftx": 919,
+          "toplefty": 164,
+          "bottomrightx": 1000,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "a3e81996-f3b5-4628-8a64-a99a533c0729",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.198Z",
+      "frameNumber": 211,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.640999972820282
+        },
+        "bbox": {
+          "topleftx": 1041,
+          "toplefty": 522,
+          "bottomrightx": 1117,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "36e907e2-5fa6-4f77-88f5-babb3766bd2a",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.199Z",
+      "frameNumber": 211,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5889999866485596
+        },
+        "bbox": {
+          "topleftx": 135,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e08b7088-e626-40cb-8ad4-5f7af111e07f",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.199Z",
+      "frameNumber": 211,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.43700000643730164
+        },
+        "bbox": {
+          "topleftx": 919,
+          "toplefty": 165,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "1b436e6b-06b6-4afc-bdac-87e8ce9456b5",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.210Z",
+      "frameNumber": 212,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.628000020980835
+        },
+        "bbox": {
+          "topleftx": 1040,
+          "toplefty": 522,
+          "bottomrightx": 1117,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "b5e37643-3ad8-4a89-8188-f4ef774fb7af",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.210Z",
+      "frameNumber": 212,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5860000252723694
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e876a239-3b7c-458e-bc5b-883eacaf3255",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.210Z",
+      "frameNumber": 212,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4449999928474426
+        },
+        "bbox": {
+          "topleftx": 919,
+          "toplefty": 164,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "f76cca8d-80df-453d-9448-361a0a5724b2",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.233Z",
+      "frameNumber": 213,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6150000095367432
+        },
+        "bbox": {
+          "topleftx": 1040,
+          "toplefty": 522,
+          "bottomrightx": 1116,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e69e6f02-88af-436b-98ed-ed52482e4740",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.233Z",
+      "frameNumber": 213,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5849999785423279
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e2bc3812-cced-43a4-9b6d-0cffea3f1310",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.233Z",
+      "frameNumber": 213,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.4519999921321869
+        },
+        "bbox": {
+          "topleftx": 919,
+          "toplefty": 165,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "d7bde73a-28a2-4890-957a-42950cf9e2cd",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.245Z",
+      "frameNumber": 214,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6140000224113464
+        },
+        "bbox": {
+          "topleftx": 1040,
+          "toplefty": 522,
+          "bottomrightx": 1116,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "7b673d2a-fa9e-48a9-adc5-3a1a88813fca",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.245Z",
+      "frameNumber": 214,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5809999704360962
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "a81737bc-8f60-45e2-b0e6-e97a1c7d1427",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.245Z",
+      "frameNumber": 214,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.45500001311302185
+        },
+        "bbox": {
+          "topleftx": 918,
+          "toplefty": 165,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "e81b3497-62f4-47d1-a69b-115dbf3010cf",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.264Z",
+      "frameNumber": 215,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6140000224113464
+        },
+        "bbox": {
+          "topleftx": 1040,
+          "toplefty": 522,
+          "bottomrightx": 1116,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "969b2dd7-3f98-43fd-9696-3d698b61e604",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.264Z",
+      "frameNumber": 215,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5759999752044678
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 254,
+          "bottomrightx": 190,
+          "bottomrighty": 388
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "3effc0dc-30d9-4387-8e5f-8e7a04ee694e",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.264Z",
+      "frameNumber": 215,
+      "camera_id": 6788,
+      "object": {
+        "id": "102",
+        "object_detection": {
+          "detector_class": "sealant_b",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#f7941d",
+          "confidence": 0.45500001311302185
+        },
+        "bbox": {
+          "topleftx": 918,
+          "toplefty": 165,
+          "bottomrightx": 999,
+          "bottomrighty": 196
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "f826e7ca-6635-4a9d-ba00-093201c2bacc",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.276Z",
+      "frameNumber": 216,
+      "camera_id": 6788,
+      "object": {
+        "id": "101",
+        "object_detection": {
+          "detector_class": "sealant_missing_c",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#e76755",
+          "confidence": 0.6209999918937683
+        },
+        "bbox": {
+          "topleftx": 1039,
+          "toplefty": 522,
+          "bottomrightx": 1116,
+          "bottomrighty": 564
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    },
+    {
+      "messageid": "176de481-e580-4a3e-8ef4-ef7eafc16f42",
+      "mdsversion": "1.0",
+      "timestamp": "2024-08-07T19:27:22.276Z",
+      "frameNumber": 216,
+      "camera_id": 6788,
+      "object": {
+        "id": "100",
+        "object_detection": {
+          "detector_class": "sealant_missing_a",
+          "model": "b7b11ebd-5448-4094-806c-0e0d4163f568",
+          "color_bgr": "#00dbff",
+          "confidence": 0.5690000057220459
+        },
+        "bbox": {
+          "topleftx": 136,
+          "toplefty": 255,
+          "bottomrightx": 189,
+          "bottomrighty": 389
+        },
+        "location": { "lat": 0.0, "lon": 0.0, "alt": 0.0 },
+        "pose": {}
+      },
+      "videoPath": "rtsp://34.226.224.48:8554/hyundai"
+    }
+  ]
+}

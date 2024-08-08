@@ -1,0 +1,8 @@
+{
+    "broker_url": "7fcd098ccd194c15bbfe7d509223d96f.s1.eu.hivemq.cloud",
+    "username": "hivemq.webclient.1723033982452",
+    "password": "10ej!rA.@g7L5PU*dXHm",
+    "broker_port": 8883,
+    "publish_url": "sealant",
+    "enabletls": true
+}
