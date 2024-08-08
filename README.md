@@ -27,3 +27,13 @@ Create a `config.json` file in the same directory as `publish.py` with the follo
     "broker_port": 8883,
     "publish_url": "YOUR_TOPIC"
 }
+
+
+##  Running script 
+
+```bash
+    python3 publish.py
+    ```
+
+
+This script will keep posting data to the mqtt brocker 
