@@ -26,7 +26,8 @@ Create a `config.json` file in the same directory as `publish.py` with the follo
     "password": "YOUR_PASSWORD",
     "broker_port": 8883,
     "publish_url": "YOUR_TOPIC"
-}
+}```
+
 
 
 ##  Running script 
